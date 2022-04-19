@@ -1,4 +1,4 @@
-package com.test;
+package com.algorithm;
 /*
 * 前提：
 * 1.有已排序数组A(假设已经做好)

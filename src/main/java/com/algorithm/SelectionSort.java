@@ -1,4 +1,4 @@
-package com.test;
+package com.algorithm;
 
 import java.util.Arrays;
 /*1.将数组分为两个子集，排序的和未排序的，每一轮从未排序的子集中选出最小的元素，放入排序子集
